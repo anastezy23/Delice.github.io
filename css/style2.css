@@ -1,0 +1,11 @@
+.container {
+    text-align: center;
+    position: relative;
+    font-size: 25px;
+}
+
+.img {
+    float: left;
+    margin-left: 10px;
+    margin-right: 40px;
+}
